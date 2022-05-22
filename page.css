@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+}
+
+nav {
+    height: 50px;
+}
+
+
+.one1 {
+    position: relative;
+    left: 1160px;
+    top: 10px;
+}
+
+a {
+
+    padding: 8px;
+    background-color: #1cac78;
+    color: white;
+    border-radius: 50%;
+
+
+}
+
+#logo {
+    height: 60px;
+    width: 200px;
+    bottom: 60px;
+    position: relative;
+
+}
+
+
+
+
+.container {
+
+    background-color: #1cac78;
+    background-image: linear-gradient(to right, #1cac78, #32CD32);
+    height: 662px;
+    position: relative;
+
+
+}
+
+#pic {
+    margin-left: 200px;
+    position: absolute;
+    top: 110px;
+    height: 200px;
+    margin: 40px;
+}
+
+h1 {
+    color: white;
+    font-size: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 900px;
+    position: absolute;
+    margin-top: 300px;
+
+}
+
+h2 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 900px;
+    position: absolute;
+    margin-top: 400px;
+
+}
